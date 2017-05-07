@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/zynowhere/intvoid/main/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/zynowhere/intvoid/main/resources/ive.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -14,8 +14,7 @@ This is Ive，evilive.
 
 ## Things I am passionate about
 
-- Android :robot:
-- Open source :octocat:
+- DELiCATE/Ctrl+S/Normal Level Game Player/amazarashi/かとう めぐみ/Smartisan
 
 ## Get in touch :coffee:
 
