@@ -1,6 +1,6 @@
 # Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/zynowhere/intvoid/main/resources/ive.jpg" alt="Hello world">
+Don't be evil , be ive
+<img src="https://raw.githubusercontent.com/zynowhere/zynowhere/main/resources/IMG.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -9,8 +9,9 @@
 
 ## About me
 
-This is Ive，evilive.
-
+This is 
+  Ive Chu,
+  else false evilive.
 
 ## Things I am passionate about
 
