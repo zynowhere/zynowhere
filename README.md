@@ -1,5 +1,5 @@
 # Hey there :wave:
-Don't be evil , be ive
+
 <img src="https://raw.githubusercontent.com/zynowhere/zynowhere/main/resources/IMG.jpg" alt="Hello world">
 
 <p align="center"> 
@@ -10,8 +10,11 @@ Don't be evil , be ive
 ## About me
 
 This is 
-  Ive Chu,
-  else false evilive.
+  Ive Chu {  
+  be live  
+} else false {  
+  be evil  
+}
 
 ## Things I am passionate about
 
