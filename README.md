@@ -9,7 +9,7 @@
 
 ## About me
 
-This Ive，evilive.
+This is Ive，evilive.
 
 
 ## Things I am passionate about
