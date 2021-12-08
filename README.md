@@ -16,10 +16,10 @@ This is
   be evil  
 }
 
-## Things I am passionate about
+## Some things
 
 - DELiCATE/Ctrl+S/Normal Level Game Player/amazarashi/かとう めぐみ/Smartisan
-
+<!--
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/IveZhu).
@@ -27,7 +27,7 @@ This is
 
 ##
 thx [sagar-viradiya](https://github.com/sagar-viradiya)
-<!--
+
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
