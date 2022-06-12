@@ -19,6 +19,8 @@ This is
 ## Some things
 
 - DELiCATE/Ctrl+S/Normal Level Game Player/amazarashi/かとう めぐみ/Smartisan
+
+![](https://raw.githubusercontent.com/zynowhere/zynowhere/main/assets/github-contribution-grid-snake.svg) 
 <!--
 ## Get in touch :coffee:
 
