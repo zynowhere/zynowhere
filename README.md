@@ -21,6 +21,7 @@ This is
 - DELiCATE/Ctrl+S/Normal Level Game Player/amazarashi/かとう めぐみ/Smartisan
 
 ![](https://raw.githubusercontent.com/zynowhere/zynowhere/main/assets/github-contribution-grid-snake.svg) 
+<img src="https://profile-counter.deno.dev/profile-count-repo/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zynowhere&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="pigif's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynowhere&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
