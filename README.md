@@ -4,7 +4,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=zynowhere&style=flat-square&color=blue&label=VISITOR+COUNT" alt="Visitor Count" />
+  <img src="https://counter.kuber.studio/zynowhere/flip-clock/count.svg" alt="Visitor Count" />
 </p>
 
 ## About me
