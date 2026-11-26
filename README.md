@@ -2,12 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/zynowhere/zynowhere/main/resources/IMG.jpg" alt="Hello world">
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
-  <!--
-  <img src="https://profile-counter.glitch.me/zynowhere/count.svg" />
-  -->
-  <img src="https://profile-counter.deno.dev/profile-count-repo/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=zynowhere&style=flat-square&color=blue&label=VISITOR+COUNT" alt="Visitor Count" />
 </p>
 
 ## About me
