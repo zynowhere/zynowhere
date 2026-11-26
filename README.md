@@ -4,7 +4,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://counter.kuber.studio/zynowhere/flip-clock/count.svg" alt="Visitor Count" />
+  <img src="https://github-view-counter.vercel.app/api?username=zynowhere&label=false&icon=false&bgColor=21262d&color=e6edf3" alt="Visitor Count" />
 </p>
 
 ## About me
