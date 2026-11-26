@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/zynowhere/zynowhere/main/resources/IMG.jpg" alt="Hello world">
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://github-view-counter.vercel.app/api?username=zynowhere&label=false&icon=false&bgColor=21262d&color=e6edf3" alt="Visitor Count" />
+  
+  <img src="https://counter.kuber.studio/zynowhere/flip-clock/count.svg" alt="Visitor Count" />
 </p>
 
 ## About me
